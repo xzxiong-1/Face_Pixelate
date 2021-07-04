@@ -8,7 +8,8 @@
 - Matplotlib
 
 ### test demo
-[![Watch the video]https://github.com/xzxiong-1/Face_Pixelate/blob/main/image/image.png]
+[![image]https://github.com/xzxiong-1/Face_Pixelate/blob/main/image/image.png]
+
 you can see the test result from :[![Watch the video](https://github.com/xzxiong-1/Face_Pixelate/blob/main/video_result/output003.mp4)]
 
 ### How to use 
