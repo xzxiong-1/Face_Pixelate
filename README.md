@@ -7,7 +7,7 @@
 - opencv-python >= 4.0
 - Matplotlib
 
-### Simple test on video
+### test demo
 you can see the test result from :[![Watch the video](https://github.com/xzxiong-1/Face_Pixelate/blob/main/video_result/output003.mp4)]
 
 ### How to use 
@@ -21,4 +21,7 @@ pip install -r requirements.txt
 
 python face_pixelate.py
 
+reference
+https://github.com/vlad3996/FaceDetection-DSFD
+https://github.com/pytorch/pytorch
 
