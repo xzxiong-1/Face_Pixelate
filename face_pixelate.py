@@ -14,7 +14,6 @@ def vis_detections(im, dets, thresh=0.5, show_text=True):
     for i in inds:
         bbox = dets[i, :4]
         
-
         #对face打马赛克
         im = np.array(im)  
         # print(im1.shape)
@@ -29,8 +28,6 @@ def vis_detections(im, dets, thresh=0.5, show_text=True):
 
     return im
         
-
-
 device = torch.device("cuda")
 conf_thresh = 0.3
 
@@ -44,7 +41,6 @@ writeVideo_flag = True
 # 视频输入
 path="./vedio_input/008.mp4"
 cap = cv2.VideoCapture(path)
-
 
 if writeVideo_flag:
     print("视频处理中，请稍后……")
