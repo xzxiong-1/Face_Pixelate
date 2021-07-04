@@ -10,4 +10,13 @@
 ### Simple test on video
 you can see the test result from :[![Watch the video](https://github.com/xzxiong-1/Face_Pixelate/blob/main/video_result/output003.mp4)]
 
+### How to use 
+Download weight from:
+
+git clone https://github.com/xzxiong-1/Face_Pixelate.git
+cd Face_Pixelate
+pip install -r requirements.txt
+
+python face_pixelate.py
+
 
