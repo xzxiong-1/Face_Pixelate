@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 python face_pixelate.py
 
-### reference
+### references
 
 https://github.com/vlad3996/FaceDetection-DSFD
 
