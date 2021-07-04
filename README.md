@@ -8,4 +8,6 @@
 - Matplotlib
 
 ### Simple test on video
+[![Watch the video](https://github.com/xzxiong-1/Face_Pixelate/blob/main/video_result/output003.mp4)]
+
 
