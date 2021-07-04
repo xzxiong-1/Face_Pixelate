@@ -11,7 +11,7 @@
 you can see the test result from :[![Watch the video](https://github.com/xzxiong-1/Face_Pixelate/blob/main/video_result/output003.mp4)]
 
 ### How to use 
-Download weight from:
+Download weight from: https://pan.baidu.com/s/1Z1yNDotm1AH02c29Tal_ww [k9dk]
 
 git clone https://github.com/xzxiong-1/Face_Pixelate.git
 
