@@ -22,6 +22,8 @@ pip install -r requirements.txt
 python face_pixelate.py
 
 reference
+
 https://github.com/vlad3996/FaceDetection-DSFD
+
 https://github.com/pytorch/pytorch
 
